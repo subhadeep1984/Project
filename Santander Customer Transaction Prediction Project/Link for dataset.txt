@@ -1,2 +1,0 @@
-The link for training and testing dataset for the project is given below
-https://www.kaggle.com/c/santander-customer-transaction-prediction/data
